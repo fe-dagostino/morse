@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>js/encoder.js</file>
+        <file>images/International_Morse_Code.png</file>
+    </qresource>
+</RCC>
